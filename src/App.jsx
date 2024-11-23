@@ -1,6 +1,6 @@
 import React from "react";
 import Gallery from "./components/Gallery";
-import "./App.css"; // Corrected import statement for the CSS file
+import "./App.css"; 
 
 function App() {
   return (
